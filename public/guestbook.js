@@ -34,3 +34,4 @@ async function loadMessages() {
 }
 // 7. 網頁載入完成時，自動執行 `loadMessages` 函式
 document.addEventListener('DOMContentLoaded', loadMessages);
+////
